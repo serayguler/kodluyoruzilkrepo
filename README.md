@@ -1,6 +1,21 @@
 # kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-## kişisel bilgilerim
-* [linkledn](https://www.linkedin.com/in/serayguler)
-## proje bilgileri
-* ![proje fotoğrafı](https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo.png)
+
+[Kodluyoruz](kodluyoruz.org) Eğitimi kapsamında açtığım ilk repo. içerisinde 1 adet readme dosyası ve 1 adet index.html dosyası bulunuyor.
+
+## installation
+
+```linux
+(https://github.com/serayguler/kodluyoruzilkrepo)
+```
+
+## usage
+
+Projeyi cloneladıktan sonra Visual Studio Code programında ister sürükleyip üzerine bırakarak, ister open folder diyerek açın, yada GIT üzerinden açmak isterseniz. ``cd myfirstrepo code .`` da yapabilirsiniz.
+
+## contributing
+
+Pull requestler kabul edilir. lütfen isteğiniz değişiklik için bir konu açınız.
+
+## licence
+
+[MIT](https://choosealicense.com/licenses/mit/)
